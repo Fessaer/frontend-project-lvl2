@@ -1,0 +1,25 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "DA Verzakov",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fessaer/frontend-project-lvl2.git"
+  },
+  "author": "Verzakov Dmitriy Anatolevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fessaer/frontend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/Fessaer/frontend-project-lvl2#readme",
+  "dependencies": {
+    "commander": "^7.2.0"
+  },
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
+  "devDependencies": {}
+}
